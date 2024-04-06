@@ -19,8 +19,8 @@ Cobrinha com commits
 </div>
 
 <div style="display: inline_block">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CauaSilva28&show_icons=true&theme=dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaSilva28&langs_count=8&theme=dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Meira-Lucas&show_icons=true&theme=dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meira-Lucas&langs_count=8&theme=dark" />
 </div>
 <br>
 
