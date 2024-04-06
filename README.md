@@ -3,7 +3,7 @@ coisas minhas
 
 ##
 <div>
-Loanding Snake Status
+Cobrinha com commits
 </div>
 <div>
   <picture align="center"> 
