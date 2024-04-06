@@ -18,6 +18,12 @@ Cobrinha com commits
   </picture>
 </div>
 
+<div style="display: inline_block">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CauaSilva28&show_icons=true&theme=dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaSilva28&langs_count=8&theme=dark" />
+</div>
+<br>
+
 ##
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
