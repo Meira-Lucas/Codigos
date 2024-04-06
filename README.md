@@ -17,3 +17,10 @@ Cobrinha com commits
     <img src="https://github.com/guuhferiani/guuhferiani/blob/main/snake-svg.svg">
   </picture>
 </div>
+
+##
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Meira-Lucas}/count.svg" /></p> 
+<br>
+</div>
